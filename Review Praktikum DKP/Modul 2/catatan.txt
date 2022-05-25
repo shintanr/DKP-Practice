@@ -1,0 +1,4 @@
+untuk membuat inputan naa yang awalnya huruf random dalam artian misal,, sAlsAbIla, akan diubah menjadi besar semua hurufnya maka menggunakan
+
+strtoupper();
+strtolower(); => untuk membuat menjadi huruf kecil semuanya.

@@ -1,0 +1,8 @@
+body {
+    height: 100%;
+}
+
+.jumbotron {
+    padding-top: 6rem;
+    background-color: #e2edff;
+}
